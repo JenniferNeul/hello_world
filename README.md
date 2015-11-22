@@ -1,2 +1,3 @@
 # hello_world
-started repo
+
+Started hello world repository
